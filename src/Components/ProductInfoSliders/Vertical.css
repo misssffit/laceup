@@ -1,0 +1,26 @@
+.vertical_container{
+
+    width: 180px;
+    height: 584px;
+}
+
+.vertical_container img{
+    width: 160px;
+    height: 160px;
+}
+
+.vertical_container .swiper-button-prev {
+  color: black;
+  transform: rotate(90deg); /* Rotate 90 degrees */
+  /* Adjust positioning based on your needs */
+  top: 25px; /* Center vertically (adjust as needed) */
+  left: 50%;  /* Adjust horizontal position (adjust as needed) */
+}
+
+.vertical_container .swiper-button-next{
+    color: black;
+    transform: rotate(90deg); /* Rotate 90 degrees */
+  /* Adjust positioning based on your needs */
+    top: 559px;
+    left: 50%; /* Center vertically (adjust as needed) */
+}

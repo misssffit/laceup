@@ -1,0 +1,72 @@
+.header{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.header_sale{
+    background-color: #FBFBFB;
+}
+.header_sale_text{
+    width: 1268px;
+    height: 26px;
+    margin: 0 auto;
+    background-color: #FBFBFB;
+    text-align: center;
+}
+
+.header_sale_text span{
+    font-family: "Karma", serif;
+    font-size: 14px;
+    font-weight: 500;
+    margin: 5px 0px 0px 0px;
+}
+
+.header_nav{
+    background-color: #0F0F0F;
+}
+
+.navigation{
+    width: 1268px;
+    margin: 0 auto;
+    height: 64px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo{
+    width: 228px;
+    height: 60px;
+    margin: 2px 0px 2px 0px;
+}
+
+.menu{
+    font-family: "Jura", sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 9px 0px 10px 0px;
+    display: flex;
+}
+
+.menu a{
+    text-decoration: none;
+    padding: 12px 10px 12px 10px;
+    color: #FBFBFB;
+}
+
+.nav_icons{
+    width: 268px;
+    height: 42px;
+    margin: 11px 0px 11px 0px ;
+    color: #FBFBFB;
+    text-align: right;
+}
+
+.nav_icons img{
+    margin-right: 2px;
+}
+
+.nav_icons :last-child{
+    margin: 0;
+}

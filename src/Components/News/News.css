@@ -1,0 +1,30 @@
+.news_container{
+    width: 1075px;
+    margin: 0 auto;
+}
+
+
+.news_text h1{
+    font-family: "Jura", sans-serif;
+    font-weight: 600;
+    font-size: 30px;
+    padding-top: 18px;
+    padding-left: 18px;
+    color: #FFFFFF;
+}
+.news_text p{
+    font-family: "Jura", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    padding-left: 18px;
+    color: #FFFFFF;
+}
+
+.news_text{
+    position: relative;
+}
+.news_text img{
+    position: absolute;
+    top: 18px;
+    right: 18px;
+}

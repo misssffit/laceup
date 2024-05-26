@@ -1,0 +1,230 @@
+.product_container{
+    width: 1268px;
+    margin: 0 auto;
+    margin-top: 70px;
+}
+
+.product_content{
+    display: flex;
+}
+
+.product_content button{
+    background-color: #ffffff;
+    border: 1px solid #B9B9B9;
+    border-radius: 1px;
+}
+
+.description_sliders{
+    display: flex;
+}
+
+.product_description{
+    margin-right: 20px;
+}
+
+.choose_name{
+    display: flex;
+    justify-content: space-between;
+    align-items: top;
+    margin-bottom: 26px;
+}
+
+.description_content{
+    margin-top: 40px;
+}
+
+.content_title{
+    font-family: 'Jura';
+    font-weight: 600;
+    font-size: 30px;
+}
+
+.content_text{
+    display: flex;
+    font-family: 'Jura';
+    font-weight: 500;
+    font-size: 25px;
+}
+
+.text_start{
+    margin-right: 20px;
+}
+
+.product_choose{
+    font-family: 'Jura';
+}
+
+
+.name_shoe{
+    width: 256px;
+    margin-right: 40px;
+}
+
+.name_shoe h3{
+    font-weight: 600;
+    font-size: 30px;
+    color: #0F0F0F;
+    margin: 0;
+}
+
+.name_shoe p{
+    font-weight: 300;
+    font-size: 25px;
+    color: #0F0F0F;
+}
+
+.name_price{
+    text-align: right;
+}
+
+.name_price_new{
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.name_price_old{
+    font-weight: 600;
+    font-size: 30px;
+    color: #BF1300;
+}
+
+.choose_size{
+    margin-bottom: 40px;
+}
+
+.size_title{
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    margin-bottom: 26px;
+}
+
+
+.size_title h3{
+    font-weight: 600;
+    font-size: 30px;
+}
+
+.size_title button{
+    height: 34px;
+    width: 200px;
+    font-weight: 500;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.size_title button span{
+    margin-right: 8px;
+}
+
+.size_array{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.size_array button{
+    width: 64px;
+    height: 32px;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.choose_delivery h3{
+    font-weight: 600;
+    font-size: 30px;
+    margin-bottom: 26px;
+}
+
+.choose_delivery{
+    margin-bottom: 40px;
+}
+
+.delivery_type{
+    display: flex;
+    align-items: center;
+
+}
+
+.delivery_buttons{
+    display: flex;
+    flex-direction: column;
+}
+
+.delivery_buttons button{
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.delivery_buttons button:first-child{
+    margin-bottom: 12px;
+}
+
+
+.delivery_text{
+    font-weight: 500;
+    font-size: 22px;
+}
+
+.delivery_text p:first-child{
+    margin-bottom: 12px;
+}
+
+.choose_color h3{
+    margin: 0;
+    font-weight: 600;
+    font-size: 30px;
+    margin-bottom: 26px;
+}
+
+.color_images{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin-bottom: 40px;
+}
+
+.color_images img{
+    width: 72px;
+    height: 72px;
+}
+
+.choose_buttons{
+    display: flex;
+    gap: 20px;
+}
+
+.choose_buttons button{
+    width: 210px;
+    height: 38px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.choose_buttons button span{
+    font-weight: 700;
+    font-size: 18px;
+}
+
+button.buy_button{
+    background-color: #09002D;
+    color: #FBFBFB;
+}
+
+button.like_button{
+    border: 1px solid #09002D;
+    border-radius: 1px;
+    color: 09002D;
+}
+
+.product_recommend h1{
+    font-family: 'Jura';
+    margin: 125px 0 36px 0;
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    color: #0F0F0F;
+}

@@ -1,0 +1,23 @@
+.threed_container{
+    width: 1440px;
+    height: 400px;
+}
+
+#landing_shoe_threed{
+    height: 100vh;
+}
+
+.model_container{
+    width: 100%;
+    height: 100%;
+}
+
+.model_text{
+    font-family: 'Jura';
+    font-size: 30px;
+    font-weight: 600;
+    width: 300px;
+    position:fixed;
+    top: -100px;
+    right: 150px;
+}

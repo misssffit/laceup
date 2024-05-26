@@ -1,0 +1,12 @@
+
+.card_container{
+    width: 1080px;
+    margin: 0 auto;
+}
+.card_container .swiper-button-prev {
+    color: black;
+  }
+  
+  .card_container .swiper-button-next{
+      color: black;
+  }

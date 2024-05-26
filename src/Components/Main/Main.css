@@ -1,0 +1,50 @@
+
+.container{
+    width: 1268px;
+    margin: 0 auto;
+}
+
+.main_brands{
+    margin-top: 62px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.main_brands p {
+    font-family: "Jura", sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.main_brands_images{
+    margin-top: 32px;
+}
+
+.main_brands_images img{
+    margin-right: 26px;
+    height: 100px;
+    width: 100px;
+}
+
+.main_brands_images img:last-child{
+    margin: 0;
+}
+
+.main_catalog_title{
+    text-align: center;
+    font-family: "Jura", sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    margin: 62px 0 36px 0;
+}
+
+
+.main_news_title {
+    margin-top: 74px;
+    text-align: center;
+    font-family: "Jura", sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+}

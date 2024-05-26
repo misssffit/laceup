@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    background-color: #FBFBFB;
+    overflow:scroll;
+}
+
+body::-webkit-scrollbar{
+    display: none;
+}
+
+p{
+    margin: 0;
+}

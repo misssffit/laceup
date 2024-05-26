@@ -1,0 +1,15 @@
+.horizontal_image{
+    width: 606px;
+    height: 584px;
+    text-align: center;
+}
+
+.horizontal_container{
+    width: 606px;
+    height: 584px;
+}
+
+.horizontal_container img{
+    width: 100%;
+    height: 100%;
+}

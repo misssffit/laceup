@@ -1,0 +1,110 @@
+.sidebar_container{
+    width: 256px;
+    height: 1200px;
+    background-color: #EEEEEE;
+    padding: 24px 0 16px 0;
+    margin-right: 20px;
+}
+
+.filter_mg{
+    margin-bottom: 21px;
+}
+.filter_checkbox{
+    margin-right: 3px;
+}
+
+.sidebar_filter{
+    margin-left: 22px;
+}
+
+.sidebar_filter p{
+    font-family: "Jura", sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.filter_title{
+    font-family: "Jura", sans-serif;
+    font-weight: 600;
+    font-size: 30px;
+    margin-left: 10px;
+    margin-bottom: 32px;
+}
+
+.filter_category_title{
+    font-family: "Jura", sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+    margin-left: 10px;
+    margin-bottom: 8px;
+}
+
+.price_content{
+    display: flex;
+}
+
+.price_filter{
+    display: flex;
+    align-items: center;
+}
+
+.price_filter p{
+    margin-right: 5px;
+}
+
+.price_filter:first-child{
+    margin-right: 5px;
+}
+
+
+
+.price_input{
+    width: 40px;
+}
+
+.display{
+    display: flex;
+    align-items: center;
+}
+
+.color_box{
+    width: 16px;
+    height: 16px;
+    margin-left: 5px ;
+    margin-right: 5px;
+}
+
+.white{
+    background-color: white;
+}
+
+.black{
+    background-color: black;
+}
+
+.grey{
+    background-color: grey;
+}
+
+.red{
+    background-color: red;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.filter_clear{
+    display: flex;
+    justify-content: end;
+    margin-right: 16px;
+}
+
+.filter_clear p{
+    font-family: "Jura" sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    text-decoration: underline;
+    color: #BF1300;
+    margin-right: 2px;
+}

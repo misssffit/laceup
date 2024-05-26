@@ -1,0 +1,13 @@
+.catalog_main{
+    width: 1084px;
+    margin: auto;
+    margin-top: 62px;
+    display: flex;
+}
+
+.catalog_list{
+    width: 800px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
