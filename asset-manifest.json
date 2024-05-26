@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/laceup/static/css/main.d92b4ed4.css",
+    "main.js": "/laceup/static/js/main.527ebbfb.js",
+    "static/media/news_j_one.png": "/laceup/static/media/news_j_one.155ea0473360b4afec49.png",
+    "static/media/banner_shoe_img.png": "/laceup/static/media/banner_shoe_img.01115bf32adb4ccb9c15.png",
+    "static/media/news_j_four.png": "/laceup/static/media/news_j_four.e8646808fde26ef28f1f.png",
+    "static/media/news_cobe.webp": "/laceup/static/media/news_cobe.a5a0d767b245b65e43b6.webp",
+    "static/media/news_light_bone.webp": "/laceup/static/media/news_light_bone.18ca38db8975158ca1ba.webp",
+    "static/media/Main_reebok.svg": "/laceup/static/media/Main_reebok.64daf2cab29a3e283df90f86cafdb1ad.svg",
+    "static/media/inst_icon.svg": "/laceup/static/media/inst_icon.02499acc45a773c42dab8e7628f786c4.svg",
+    "static/media/new icon.svg": "/laceup/static/media/new icon.f3768d8e29fb633ad7093a962e162800.svg",
+    "static/media/slick.svg": "/laceup/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/Main_puma.svg": "/laceup/static/media/Main_puma.dbfd963f6e711ca6e020371b816af84b.svg",
+    "static/media/slick.eot": "/laceup/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/Main_newbalance.svg": "/laceup/static/media/Main_newbalance.9ceae6c560207636c46d13f67f174856.svg",
+    "static/media/Header_icon_contacts.svg": "/laceup/static/media/Header_icon_contacts.553b6657767f99cbf479433a458080c4.svg",
+    "static/media/slick.ttf": "/laceup/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/laceup/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/Header_icon_cart.svg": "/laceup/static/media/Header_icon_cart.f965b23bde921efd45bbf72c27cfab90.svg",
+    "static/media/trash.svg": "/laceup/static/media/trash.82f860962c2ec8f6222d11dcc46d910f.svg",
+    "static/media/size_list.svg": "/laceup/static/media/size_list.31d15a4d0651bc40ee0cb1e2cf27e5d3.svg",
+    "static/media/tiktok_icon.svg": "/laceup/static/media/tiktok_icon.f74cdd258d3d8b0f6261a47dad93b630.svg",
+    "index.html": "/laceup/index.html",
+    "static/media/Main_asics.svg": "/laceup/static/media/Main_asics.fcc1550d1ebc3968cfd938ff82948019.svg",
+    "static/media/banner_spin_icon.svg": "/laceup/static/media/banner_spin_icon.fbd85062987a4d4226a84a5ecce670f1.svg",
+    "static/media/Header_icon_account.svg": "/laceup/static/media/Header_icon_account.f0b6bd09b52414bdae1625dca223c003.svg",
+    "static/media/Main_nike.svg": "/laceup/static/media/Main_nike.bac2da59b51bf1502fb0adfee226c0d8.svg",
+    "static/media/Header_icon_search.svg": "/laceup/static/media/Header_icon_search.2fd1082d711f03771eeccd7f9c8d9000.svg",
+    "static/media/like icon.svg": "/laceup/static/media/like icon.883011ef41b96efb19f122fb4b289630.svg",
+    "static/media/Main_adidas.svg": "/laceup/static/media/Main_adidas.79e6bebf9e1d04c3e78d1d4a9239b385.svg",
+    "static/media/banner_up_arrow.svg": "/laceup/static/media/banner_up_arrow.f0ef9d54bac52b36026c3a9729f65677.svg",
+    "static/media/banner_down_arrow.svg": "/laceup/static/media/banner_down_arrow.7bd37076557e3e115e7f581a4a165747.svg",
+    "main.d92b4ed4.css.map": "/laceup/static/css/main.d92b4ed4.css.map",
+    "main.527ebbfb.js.map": "/laceup/static/js/main.527ebbfb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d92b4ed4.css",
+    "static/js/main.527ebbfb.js"
+  ]
+}
